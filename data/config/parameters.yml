@@ -1,0 +1,11 @@
+country: "France"
+osm:
+  sleep_seconds: 1.0
+  user_agent: "kayak-data-project/1.0 (jyvuillequez@gmail.com)"
+
+weather:
+  endpoint: "https://api.openweathermap.org/data/3.0/onecall"
+  units: "metric"
+  lang: "fr"
+  sleep_seconds: 1.0
+  exclude: "current,minutely,hourly,alerts"
