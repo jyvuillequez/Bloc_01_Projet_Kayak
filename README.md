@@ -57,7 +57,12 @@ Projet réalisé dans le cadre de la certification **RNCP Niveau 6 – Concepteu
   - Pagination non prise en compte
   - Données dépendantes de la date de collecte
 
-## 7. Organisation du projet
+## 7. Installations des librairies Python
+```text
+python -m pip install -r requirements.txt
+```
+
+## 8. Organisation du projet
 
 ```text
 .
